@@ -1,4 +1,4 @@
-# Notes for 4150, based on the fall ‘24 lectures.
+# Notes for IN4150, based on the fall ‘24 lectures.
 - Mostly AI-parsed notes, but supplements where curriculum seems unclear.
 - Will update if notes deviates from 2025 curriculum
 
