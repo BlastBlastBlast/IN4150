@@ -1,3 +1,9 @@
+# Notes for 4150, based on the fall ‘24 lectures.
+- Mostly AI-parsed notes, but supplements where curriculum seems unclear.
+- Will update if notes deviates from 2025 curriculum
+
+---
+
 1. Digital ecosystems: Introduction & Overview
    https://www.uio.no/studier/emner/matnat/ifi/IN4150/h24/lecture-1.-intro.pdf
    
