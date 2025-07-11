@@ -19,7 +19,7 @@
 ### What is a Platform?
 - Platforms connect people/organizations, enabling new forms of interaction and innovation.
 - Platforms = **Multisided ecosystems** (Cusumano et al., 2019).
-
+![[Screenshot 2025-07-11 at 16.29.24.png]]
 ### What is a “Side”?
 - A distinct stakeholder group that the platform connects.
 - Each side is a customer (e.g., providers and users).
@@ -30,6 +30,8 @@
 - **iOS**: Developers, end users
 - **PlayStation/Xbox**: Gamers, developers
 - **PayPal/Vipps**: Consumers, merchants
+
+![[Screenshot 2025-07-11 at 16.22.13.png]]
 
 ---
 
@@ -69,20 +71,22 @@
 ### Transaction Platforms
 - Facilitate **exchanges** between different user groups.
 - E.g., Uber, Etsy, Airbnb, OpenTable
-
+![[Screenshot 2025-07-11 at 16.24.42.png]]
 ### Innovation Platforms
 - Offer **technological infrastructure** for others to build upon.
 - E.g., Android, iOS, Photoshop, game consoles
-
+![[Screenshot 2025-07-11 at 16.24.57.png]]
 ### Similarities
 - Multisided structure
 - Benefit from **network effects**
-- Build **ecosystems** involving many participants
+- Build **ecosystems** involving many participants 
+ 
+![[Screenshot 2025-07-11 at 16.25.24.png]]
 
 ---
 
 ## 6. Network Effects
-
+![[Screenshot 2025-07-11 at 16.25.50.png]]
 ### Direct (One-sided)
 - Value increases with more users (e.g., telephone, social media)
 
@@ -93,7 +97,7 @@
 ### Critical Mass
 - Self-sustaining growth point
 - Important milestone for platform viability
-
+![[Screenshot 2025-07-11 at 16.26.08.png]]
 ### Negative Network Effects
 - Overcrowding reduces value
   - E.g., Facebook clutter, bandwidth congestion
@@ -141,7 +145,7 @@
 - Specialize in specific markets or users
 - Fragment network → reduce winner-takes-all likelihood
   - E.g., Upwork vs niche freelancing sites
-
+![[Screenshot 2025-07-11 at 16.27.05.png]]
 ---
 
 ### C. Disintermediation
@@ -169,7 +173,7 @@
 **Examples:**
 - **Uber**: Fragmented city clusters → easier to disrupt
 - **Airbnb**: Global cluster → more defensible
-
+![[Screenshot 2025-07-11 at 16.27.23.png]]
 ---
 
 ## 9. Summary: What Drives Platform Success?
@@ -185,6 +189,7 @@
 
 ## Differences Between Multisided and Traditional (One-Sided/Pipeline) Businesses
 
+![[Screenshot 2025-07-11 at 16.23.44.png]]
 ### 1. **Value Creation Model**
 - **Traditional (Pipeline) Businesses:**
   - Value is created **linearly** through a controlled production and distribution chain.
